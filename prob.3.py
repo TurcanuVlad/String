@@ -1,0 +1,5 @@
+a=str(input("Numele:"))
+b=str(input("Virsta:"))
+c=str(input("Institutia:"))
+d=str(input("Din obiecte scolare, preferi:"))
+print(f'Te numesti {a}, ai {b} ani, inveti in {c} si obiectul tau preferat este {d}, iti doresc mult succes in continuare')
